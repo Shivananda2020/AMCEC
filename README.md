@@ -1,2 +1,2 @@
-# AMCEC
+# MSRIT
 College 
